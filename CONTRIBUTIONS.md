@@ -1,6 +1,6 @@
 # 👥 Contributions
 
-**Group:** Group 4
+**Group:** Group 04
 
 **Step 5 (first commit):** each member fills in **only their own row** (Name, GitHub username, Role) and pushes it.
 **Before submission:** each member updates their **What I did** column. Be specific, e.g. *"Parts 1–2: wrote the
