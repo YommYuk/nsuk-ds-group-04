@@ -1,6 +1,6 @@
 # 👥 Contributions
 
-**Group:** Group ___
+**Group:** Group 4
 
 **Step 5 (first commit):** each member fills in **only their own row** (Name, GitHub username, Role) and pushes it.
 **Before submission:** each member updates their **What I did** column. Be specific, e.g. *"Parts 1–2: wrote the
@@ -8,7 +8,7 @@ cleaning code for LGAs, Yes/No and months; wrote report section 2; fixed the mer
 
 | # | Name | GitHub username | Role | What I did |
 |---|---|---|---|---|
-| 1 | | @ | Coordinator + Data lead (Parts 1–2) | |
+| 1 | | @YommYuk | Coordinator + Data lead (Parts 1–2) |Pending |
 | 2 | | @ | Visualisation lead (Parts 3 and 7) | |
 | 3 | | @ | Statistics lead (Parts 4–5) | |
 | 4 | | @ | Machine-learning lead (Part 6) | |
