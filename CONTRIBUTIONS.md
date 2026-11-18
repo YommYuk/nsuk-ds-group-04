@@ -16,5 +16,5 @@ cleaning code for LGAs, Yes/No and months; wrote report section 2; fixed the mer
 
 ## Meeting log *(optional, but helps if there are disagreements later)*
 | Date | Who attended | What we agreed |
-|17/11/2026|---|---|
-| | | |
+|---|---|---|
+|17/11/2026 | | |
