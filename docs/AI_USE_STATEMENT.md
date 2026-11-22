@@ -10,7 +10,7 @@
 | Part / file | Member | What we asked the AI (summary or exact prompt) | How we used the answer |
 |---|---|---|---|
 | Setup and GitHub | Member 1 | Help with errors setting up the notebook in Jupyter and uploading files to GitHub | Followed the steps to fix the errors |
-| Parts 1, 2 & 3 | Member 1 | Help with completing some TODO cells and understanding the outputs | Ran the code ourselves and made sure all the notebook checks passed |
+| Parts 1, 2 | Member 1 | Help with completing some TODO cells and understanding the outputs | Ran the code ourselves and made sure all the notebook checks passed |
 | | | | |
 
 ## 3. How we checked the AI's output
