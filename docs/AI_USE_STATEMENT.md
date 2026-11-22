@@ -6,7 +6,7 @@
 
 ## 1. Tools used
 *Tick all that apply and add the version if you know it.*
-- [ ] ChatGPT  - [ ] Google Gemini  - [ ] Microsoft Copilot  - [ ] GitHub Copilot  - [ ] Claude  - [ ] Meta AI  - [ ] Other: ______
+- [ *] ChatGPT  - [ ] Google Gemini  - [ ] Microsoft Copilot  - [ ] GitHub Copilot  - [ ] Claude  - [ ] Meta AI  - [ ] Other: ______
 - [ ] We did not use any AI tools.
 
 ## 2. What we used AI for
