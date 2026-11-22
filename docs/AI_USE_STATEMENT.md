@@ -24,7 +24,7 @@ We confirm this statement is accurate, that we checked all AI-generated content,
 
 | Member | Agree (type your name) |
 |---|---|
-| Member 1 | |
+| Member 1 | Ladipo Oluyomi |
 | Member 2 | |
 | Member 3 | |
 | Member 4 | |
