@@ -27,7 +27,7 @@ We confirm this statement is accurate, that we checked all AI-generated content,
 | Member | Agree (type your name) |
 |---|---|
 | Member 1 | Ladipo Oluyomi |
-| Member 2 | |
+| Member 2 |Gideon Ekwajiayo |
 | Member 3 |Monday John and Onyekachi Isaac Okogbue |
-| Member 4 | |
+| Member 4 |Emeka Joseph Onyekwelu |
 | Member 5 | |
