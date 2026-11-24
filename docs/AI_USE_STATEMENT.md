@@ -2,11 +2,11 @@
 
 *Complete this honestly. Using AI is allowed in this project, but it must be declared. Delete the italic guidance when you're done.*
 
-**Group:** Group ___
+**Group:** Group 04
 
 ## 1. Tools used
 *Tick all that apply and add the version if you know it.*
-- [ ] ChatGPT  - [ ] Google Gemini  - [ ] Microsoft Copilot  - [ ] GitHub Copilot  - [ ] Claude  - [ ] Meta AI  - [ ] Other: ______
+- [* ] ChatGPT  - [ ] Google Gemini  - [ ] Microsoft Copilot  - [ ] GitHub Copilot  - [ ] Claude  - [ ] Meta AI  - [ ] Other: ______
 - [ ] We did not use any AI tools.
 
 ## 2. What we used AI for
@@ -35,4 +35,4 @@ We confirm this statement is accurate, that we checked all AI-generated content,
 | Member 2 | |
 | Member 3 | |
 | Member 4 | |
-| Member 5 | |
+| Member 5 |Irene Abah|
