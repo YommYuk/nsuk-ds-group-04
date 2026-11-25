@@ -3,26 +3,27 @@
 
 ---
 
-## 📌 About our project *(groups: complete this section in your own repository)*
-
-> Delete this grey note once you've filled the section in. Everything under **📘 Assignment instructions** can stay as it is.
+## 📌 About our project
 
 | | |
 |---|---|
-| **Group** | Group ___ |
-| **Live app** | *(optional: paste your Streamlit Community Cloud link)* |
+| **Group** | Group 04 |
 | **Report** | [`report/GROUP_REPORT.md`](report/GROUP_REPORT.md) |
 
 | Member | GitHub username | Role | Parts |
 |---|---|---|---|
-| | @ | Coordinator + Data lead | Parts 1–2 |
-| | @ | Visualisation lead | Parts 3 and 7 |
-| | @ | Statistics lead | Parts 4–5 |
-| | @ | Machine-learning lead | Part 6 |
-| | @ | App lead | Parts 8–9 |
+| Ladipo Oluyomi | @YommYuk | Coordinator + Data lead | Parts 1–2 |
+| Gideon Ekwajiayo | @Ekwajiayo | Visualisation lead | Parts 3 and 7 |
+| Monday John and Onyekachi Isaac Okogbue | @Monday123-gif and @Onyeka852 | Statistics lead | Parts 4–5 |
+| Emeka Joseph Onyekwelu | @jasperonyekwelu-lab | Machine-learning lead | Part 6 |
+| Irene Abah | @ireneeky1 | App lead | Parts 8–9 |
 
-**Our key findings (3–5 bullet points with numbers):**
-- …
+**Our key findings:**
+- Staked farms yielded 1.63 t/ha more than unstaked farms (95% CI 1.40 to 1.85, Cohen's d = 0.58), and the effect held in the regression (1.57 t/ha).
+- Certified seed yam was linked with 2.35 t/ha more than own saved setts, after controlling for other factors.
+- High pest and disease pressure was linked with 3.66 t/ha less yield than farms where pests were absent.
+- The raw gender gap (0.33 t/ha) was not significant once practices and resources were taken into account.
+- A linear regression model predicted yield on unseen farms with a typical error of about 1.4 t/ha (test R² = 0.59).
 
 **How to run our work:** see [Step 4](#step-4--everyone-set-up-python-on-your-laptop), then open `notebooks/group_project.ipynb` and click **Run All**, then `streamlit run app/streamlit_app.py`.
 
